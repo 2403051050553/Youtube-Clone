@@ -2,13 +2,13 @@
 
 A static HTML and CSS exercise modeling a video-browsing homepage with a header, search area, sidebar, and video grid.
 
-## Current repository status
+## Included assets
 
-The page entry point is `Youtube.html`, and the repository contains CSS files. The page also references `styles/`, `icons/`, `thumbnails/`, and `channel-pictures/` paths that are not present in the tracked repository, so the page will not render all styling and imagery as authored.
+The repository includes local SVG navigation icons, original gradient video-preview artwork, and generated channel avatars. The preview art is illustrative placeholder artwork rather than copied video thumbnails.
 
 ## Run locally
 
-Open `Youtube.html` in a modern browser to inspect the current page. Some styles and images will be missing until the referenced assets are added or the paths are corrected.
+Open `Youtube.html` in a modern browser. The page uses the checked-in styles and SVG assets; Google Fonts still requires an internet connection.
 
 ## Scope
 
